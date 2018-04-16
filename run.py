@@ -222,10 +222,7 @@ def backtrack(nexti):
                     return
                 else:
                     unplaceRect(rect)
-
-
-
-
+                    
 
 if __name__ == "__main__":
     global isSolved
